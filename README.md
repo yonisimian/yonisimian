@@ -67,7 +67,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yonisimian-cs-degree&repo=20407-Data-Structures-and-Introduction-to-Algorithms&theme=algolia)](https://github.com/yonisimian-cs-degree/20407-Data-Structures-and-Introduction-to-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yonisimian-cs-degree&repo=20585-Introduction-to-the-Theory-of-Computation&theme=algolia)](https://github.com/yonisimian-cs-degree/20585-Introduction-to-the-Theory-of-Computation)
 
-### Last Played on Spotify
+### Recently Played on Spotify
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31522rpa7aqc6vu7pc2kildtwcia&redirect=true">
