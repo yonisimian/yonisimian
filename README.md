@@ -2,19 +2,19 @@
 <h3 align="center">A passionate Software Developer and Music Enthusiast</h3>
 
 <div align="center">
-  <a href="https://youtu.be/XMI8ZZLw_So?si=RXajmhWIpuHWLAUe">
+  <a href="https://youtu.be/XMI8ZZLw_So?si=RXajmhWIpuHWLAUe" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:yonisimian@gmail.com?subject=Ain%E2%80%99t%20Nobody%20Got%20Time%20fo%20Choosing%20an%20Email%20Subject&body=Hello%20There%21">
+  <a href="mailto:yonisimian@gmail.com?subject=Ain%E2%80%99t%20Nobody%20Got%20Time%20fo%20Choosing%20an%20Email%20Subject&body=Hello%20There%21" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/+972533321709?text=Hello%20there%21">
+  <a href="https://wa.me/+972533321709?text=Hello%20there%21" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://t.me/The_Ultimate_Lifeform">
+  <a href="https://t.me/The_Ultimate_Lifeform" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://yonisimian-cv.tiiny.site/">
+  <a href="https://t.me/The_Ultimate_Lifeform" target="_blank">
     <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
@@ -70,7 +70,7 @@
 ### Recently Played on Spotify
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31522rpa7aqc6vu7pc2kildtwcia&redirect=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31522rpa7aqc6vu7pc2kildtwcia&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31522rpa7aqc6vu7pc2kildtwcia&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" alt="Spotify" />
   </a>
 </div>
