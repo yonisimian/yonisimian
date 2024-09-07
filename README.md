@@ -14,7 +14,7 @@
   <a href="https://t.me/The_Ultimate_Lifeform" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://t.me/The_Ultimate_Lifeform" target="_blank">
+  <a href="https://yonisimian-cv.tiiny.site" target="_blank">
     <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
