@@ -8,7 +8,7 @@
   <a href="mailto:yonisimian@gmail.com?subject=Ain%E2%80%99t%20Nobody%20Got%20Time%20fo%20Choosing%20an%20Email%20Subject&body=Hello%20There%21" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/+972533321709?text=Hello%20there%21" target="_blank">
+  <a href="https://tinyurl.com/yonisimian-whatsapp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://t.me/The_Ultimate_Lifeform" target="_blank">
