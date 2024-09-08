@@ -28,7 +28,7 @@
 
 ### Skills
 
-![Typing Svg](https://readme-typing-svg.demolab.com/?lines=Hint:+try+clicking+on+the+skills!;...I've+crafted+them+carefully+%3A%29&height=20&size=16&vCenter=true&duration=6666)
+![Typing Svg](https://readme-typing-svg.demolab.com/?lines=Hint:+try+clicking+on+a+skill!;...I've+crafted+them+carefully+%3A%29&height=20&size=16&vCenter=true&duration=6666)
 
 <div>
   <a href="https://github.com/yonisimian-cs-degree/20407-Data-Structures-and-Introduction-to-Algorithms" target="_blank"><img src="https://img.shields.io/badge/%E2%80%89c++%E2%80%89-red.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
