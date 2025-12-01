@@ -65,9 +65,9 @@
 
 ### Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yonisimian&repo=yonisimian.com&theme=algolia)](https://github.com/yonisimian/yonisimian.com)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openu-cs-degree&repo=20407-Data-Structures-and-Introduction-to-Algorithms&theme=algolia)](https://github.com/openu-cs-degree/20407-Data-Structures-and-Introduction-to-Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openu-cs-degree&repo=20585-Introduction-to-the-Theory-of-Computation&theme=algolia)](https://github.com/openu-cs-degree/20585-Introduction-to-the-Theory-of-Computation)
+[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=yonisimian&repo=yonisimian.com&theme=algolia)](https://github.com/yonisimian/yonisimian.com)
+[![Data Structures Class Project](https://github-readme-stats.vercel.app/api/pin/?username=openu-cs-degree&repo=20407-Data-Structures-and-Introduction-to-Algorithms&theme=algolia)](https://github.com/openu-cs-degree/20407-Data-Structures-and-Introduction-to-Algorithms)
+[![Computation Class Project](https://github-readme-stats.vercel.app/api/pin/?username=openu-cs-degree&repo=20585-Introduction-to-the-Theory-of-Computation&theme=algolia)](https://github.com/openu-cs-degree/20585-Introduction-to-the-Theory-of-Computation)
 
 ### Recently Played on Spotify
 
